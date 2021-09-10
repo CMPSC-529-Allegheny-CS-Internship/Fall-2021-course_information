@@ -27,15 +27,17 @@ Email: jjumadinova@allegheny.edu
 
 ## Course Structure
 
-In this course, following agile methodology, you will work as a team of software engineers to implement a software tool specified by the company partner. At the intervals outlined by the company partner, you will meet with your industry mentors and supervisors for regular sprints, to outline what you have done and to plan what you need to work on next. Industry mentors will also be available to answer students' questions asynchronously. 
+In this course, following agile methodology, students work as a team of engineers to implement a software tool specified by the company partner. This semester, our industry partners are Acutec and NetApp. At the intervals outlined by the company partner, students meet with the industry mentors and supervisors for regular meetings, to outline what has been completed, what challenges were encountered, and to plan what you need to work on next. Industry mentors will also be available to answer students' questions asynchronously. 
 
 ## Expectations
 
 - Regular attendance
-- Communication
-- Completion of tasks
-- Team engagement and participation
-
+- Regular communication with the industry mentor
+- Follow good project management techniques
+- Use GitHub Flow and GitHub Issue Tracker
+- Completion of assigned tasks
+- Engagement and participation with the team
+- 
 ## Deliverables
 
 - Midterm presentation
