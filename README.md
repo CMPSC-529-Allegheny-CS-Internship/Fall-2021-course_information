@@ -31,6 +31,7 @@ In this course, following agile methodology, students work as a team of engineer
 
 ## Expectations
 
+- Dedication of 8-9 hours of work to the project
 - Regular attendance
 - Regular communication with the industry mentor
 - Follow good project management techniques
