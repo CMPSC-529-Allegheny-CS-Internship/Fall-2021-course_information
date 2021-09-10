@@ -37,7 +37,7 @@ In this course, following agile methodology, students work as a team of engineer
 - Use GitHub Flow and GitHub Issue Tracker
 - Completion of assigned tasks
 - Engagement and participation with the team
-- 
+
 ## Deliverables
 
 - Midterm presentation
